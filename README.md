@@ -9,6 +9,8 @@ Stores customer-related information such as customer ID, name, email, location, 
 
 📚 book.csv
 Includes information about books such as book ID, title, author, genre, price, and publication details. This table helps in identifying best-selling books, genre popularity, and pricing analysis.
+
+
 📈 Outcome :
 This project demonstrates how relational databases can be used to store, manage, and analyze real-world data, helping in making informed business decisions in a bookstore or e-commerce environment.
 The project uses three main datasets:
