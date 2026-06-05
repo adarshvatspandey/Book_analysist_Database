@@ -17,7 +17,7 @@ The project uses three main datasets:
 ## Q1. Retrieve all books in the "Fiction" genre
 
 Table Relation Preview
-i[image](https://github.com/adarshvatspandey/Book_analysist_Database/blob/48ff30288de4885507e6046b05abed82033789fc/Analysis.png)
+i[image](https://github.com/adarshvatspandey/Book_analysist_Database/blob/main/Analysis.png?raw=true)
 
 ### SQL Query
 
