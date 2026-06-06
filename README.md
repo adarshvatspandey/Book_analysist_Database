@@ -17,6 +17,7 @@ This project demonstrates how relational databases can be used to store, manage,
 
 🗄️ Database Schema & Relationships
 ![image](https://github.com/adarshvatspandey/Book_analysist_Database/blob/main/Analysis.png?raw=true)
+![image]()
 
 ### SQL Query
 The project uses three main datasets:
