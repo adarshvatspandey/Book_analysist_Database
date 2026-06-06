@@ -15,7 +15,7 @@ Includes information about books such as book ID, title, author, genre, price, a
 This project demonstrates how relational databases can be used to store, manage, and analyze real-world data, helping in making informed business decisions in a bookstore or e-commerce environment.
 
 
-🗄️ Database Schema & Relationships
+📊 Database Schema & Entity Relationship Diagram (ERD)
 ![image](https://github.com/adarshvatspandey/Book_analysist_Database/blob/main/Analysis.png?raw=true)
 ![image](https://github.com/adarshvatspandey/Book_analysist_Database/blob/a54f01c55a8700062332046d242b7ccb815da4ff/ERD%20for%20Database.png)
 
